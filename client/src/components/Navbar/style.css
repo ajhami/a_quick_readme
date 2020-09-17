@@ -1,0 +1,23 @@
+.navbar {
+    background-color: #ffffff;
+}
+
+.md_logo {
+    height: 5.0rem;
+    width: 5.0rem;
+}
+
+.nav_selects {
+    color: #3ccef3;
+    display: block;
+    font-weight: bold;
+    float: right;
+    margin-right: 1.2rem;
+    font-size: 1.6rem;
+}
+
+.nav_selects:hover {
+    color: #30aafc;
+    font-weight: bolder;
+    text-decoration: none;
+}
